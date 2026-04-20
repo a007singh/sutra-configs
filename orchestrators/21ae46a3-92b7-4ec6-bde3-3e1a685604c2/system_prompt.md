@@ -1,3 +1,3 @@
 # Git Test Orchestrator
 
-Testing Orchestrator for Git Push and syn cup through the platform V2
+Testing Orchestrator for Git Push and syn cup through the platform
