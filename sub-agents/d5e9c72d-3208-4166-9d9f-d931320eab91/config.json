@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-03-08T09:22:29.600615",
+  "mcp_servers": "[{\"url\": \"http://localhost:8003/sse\"}]",
+  "model_name": "us.amazon.nova-pro-v1:0",
+  "sub_agent_id": "d5e9c72d-3208-4166-9d9f-d931320eab91",
+  "sub_agent_name": "Coverage Agent",
+  "_meta": {
+    "entity_type": "sub-agent",
+    "entity_id": "d5e9c72d-3208-4166-9d9f-d931320eab91",
+    "versioned_at": "2026-04-20T16:06:54.104238+00:00",
+    "source": "sutra-platform"
+  }
+}
