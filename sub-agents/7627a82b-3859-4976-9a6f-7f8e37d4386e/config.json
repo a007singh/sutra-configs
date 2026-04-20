@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-04-13T10:13:14.900421",
+  "mcp_servers": "[{\"mcp_server_id\":\"73dd0f98-e1da-4407-bfcc-61b40eb63d91\",\"url\":\"https://agentflow-gateway-itkmgzlqui.gateway.bedrock-agentcore.us-east-1.amazonaws.com/mcp\",\"transport_type\":\"streamable_http\",\"target_prefix\":\"zoho-inventory-tools\",\"auth_type\":\"cognito_m2m\"}]",
+  "model_name": "us.amazon.nova-pro-v1:0",
+  "sub_agent_id": "7627a82b-3859-4976-9a6f-7f8e37d4386e",
+  "sub_agent_name": "Stock Analyst",
+  "_meta": {
+    "entity_type": "sub-agent",
+    "entity_id": "7627a82b-3859-4976-9a6f-7f8e37d4386e",
+    "versioned_at": "2026-04-20T12:40:56.802949+00:00",
+    "source": "sutra-platform"
+  }
+}
