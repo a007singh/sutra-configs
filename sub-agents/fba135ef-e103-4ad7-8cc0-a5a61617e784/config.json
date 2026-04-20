@@ -1,0 +1,13 @@
+{
+  "sub_agent_id": "fba135ef-e103-4ad7-8cc0-a5a61617e784",
+  "sub_agent_name": "Git Test Agent",
+  "model_name": "us.amazon.nova-pro-v1:0",
+  "mcp_servers": "[]",
+  "created_at": "2026-04-20T13:24:46.261619",
+  "_meta": {
+    "entity_type": "sub-agent",
+    "entity_id": "fba135ef-e103-4ad7-8cc0-a5a61617e784",
+    "versioned_at": "2026-04-20T13:24:48.054821+00:00",
+    "source": "sutra-platform"
+  }
+}
