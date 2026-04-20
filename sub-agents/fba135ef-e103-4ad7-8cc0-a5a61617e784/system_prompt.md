@@ -1,3 +1,3 @@
 # Git Test Agent
 
-Testing Git Push and syn cup through the platform
+Testing Git Push and syn cup through the platform V2
