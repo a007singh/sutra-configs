@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-03-08T09:16:04.770012",
+  "mcp_servers": "[{\"mcp_server_id\":\"9a70ed6c-8b78-49e8-aeae-6bdb00eea7ba\",\"url\":\"https://agentflow-gateway-itkmgzlqui.gateway.bedrock-agentcore.us-east-1.amazonaws.com/mcp\",\"transport_type\":\"streamable_http\",\"target_prefix\":\"math-tools\",\"auth_type\":\"cognito_m2m\"}]",
+  "model_name": "us.amazon.nova-pro-v1:0",
+  "sub_agent_id": "30417621-0025-4510-8c20-96601129d89f",
+  "sub_agent_name": "Remote Calculator",
+  "_meta": {
+    "entity_type": "sub-agent",
+    "entity_id": "30417621-0025-4510-8c20-96601129d89f",
+    "versioned_at": "2026-04-21T08:13:37.825185+00:00",
+    "source": "sutra-platform"
+  }
+}
