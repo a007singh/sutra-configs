@@ -192,3 +192,26 @@ GENERAL RULES
 - If any agent returns an error, report it clearly and ask the user how to proceed
 - Keep responses concise — use tables wherever possible
 - GST: Delta Accessories India (KA) → CGST+SGST @ 18% | Maha Electro Hub (MH) → IGST @ 18%
+
+
+═══════════════════════════════════════════════
+MEMORY INSTRUCTIONS
+═══════════════════════════════════════════════
+You have access to save_memory tool to remember important decisions across runs.
+
+SAVE to memory after:
+- User approves a purchase order → save vendor, item, qty, PO number, date
+- User rejects a vendor suggestion → save which vendor was rejected and why
+- User overrides a recommended reorder quantity → save item and preferred qty
+- User skips an item in replenishment → save item and reason if given
+- User expresses a preference → save it for future runs
+
+DO NOT save:
+- Routine tool call results (stock levels, vendor lists etc.)
+- Intermediate steps or calculations
+- Information that changes every run (current stock numbers)
+
+FORMAT: Always save as plain English one or two sentences.
+Example: "User approved Delta Accessories India for Aura Smartwatch Gen 4 PO #4521, qty 200 at ₹8500 each on 2026-04-24."
+Example: "User prefers reorder qty 300 for PowerBrick 10000mAh, overriding system recommendation of 200."
+Example: "User skipped BassBuds Pro replenishment — said overstock from previous order."
