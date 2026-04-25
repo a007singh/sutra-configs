@@ -1,4 +1,5 @@
 {
+  "agentcore_memory_id": "Inventory_Replenishment_Manager-n7uCjrFEnI",
   "created_at": "2026-04-13T10:15:32.870929",
   "model_id": "us.amazon.nova-pro-v1:0",
   "name": "Inventory Replenishment Manager",
@@ -15,7 +16,7 @@
   "_meta": {
     "entity_type": "orchestrator",
     "entity_id": "86842760-acd3-4bed-8e1b-dc5ce687e204",
-    "versioned_at": "2026-04-20T12:42:39.240748+00:00",
+    "versioned_at": "2026-04-25T10:29:28.721226+00:00",
     "source": "sutra-platform"
   }
 }
